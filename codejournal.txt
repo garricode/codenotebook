@@ -1,0 +1,5 @@
+.LOG
+
+
+4:15 PM 3/12/2017
+Created this log file for my Code Notebook repository.
