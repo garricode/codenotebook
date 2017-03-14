@@ -3,3 +3,6 @@
 
 4:15 PM 3/12/2017
 Created this log file for my Code Notebook repository.
+
+10:45 AM 3/14/2017
+Going to find a open source project or issue where I can contribute.
