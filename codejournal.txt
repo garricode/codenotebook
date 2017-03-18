@@ -12,3 +12,6 @@ I will use Leo Baubauta's mnmlist Wordpress theme as a sandbox to experiment wit
 
 9:50 PM 3/17/2017
 I formatted and styled the <form> element from my website-request-form repository.
+
+2:47 PM 3/18/2017
+I improved the <form> element by applying the box-shadow property.
