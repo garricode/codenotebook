@@ -9,3 +9,6 @@ Going to find an open source project or issue where I can contribute.
 
 2:00 AM 3/17/2017
 I will use Leo Baubauta's mnmlist Wordpress theme as a sandbox to experiment with front-end development tools.
+
+9:50 PM 3/17/2017
+I formatted and styled the <form> element from my website-request-form repository.
