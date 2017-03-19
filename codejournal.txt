@@ -15,3 +15,6 @@ I formatted and styled the <form> element from my website-request-form repositor
 
 2:47 PM 3/18/2017
 I improved the <form> element by applying the box-shadow property.
+
+10:00 PM 3/18/2017
+I am still working with the website-request-form repository. The text from the header uses Open Sans, sans-serif.
