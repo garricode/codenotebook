@@ -24,3 +24,6 @@ The next side-projects are a photo gallery, and a mobile-responsive website.
 
 12:04 PM 3/27/2017
 I built and designed a simple photo gallery using the thumbnail class. I am reading and doing some JavaScript exercises.
+
+6:20 PM 3/28/2017
+I am doing JavaScript lessons, and I fixed a bit my website-request-form repository.
