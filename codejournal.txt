@@ -27,3 +27,6 @@ I built and designed a simple photo gallery using the thumbnail class. I am read
 
 6:20 PM 3/28/2017
 I am doing JavaScript lessons, and I fixed a bit my website-request-form repository.
+
+10:00 PM 3/30/2017
+Tuning and tweaking my Photo Gallery side project. I got rid of unnecessary code
