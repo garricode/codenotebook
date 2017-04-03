@@ -30,3 +30,6 @@ I am doing JavaScript lessons, and I fixed a bit my website-request-form reposit
 
 10:00 PM 3/30/2017
 Tuning and tweaking my Photo Gallery side project. I got rid of unnecessary code
+
+11:25 AM 4/3/2017
+I created a list of side-projects that I have on mind for my portfolio.
