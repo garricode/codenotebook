@@ -2,6 +2,13 @@
 
 <p>I am learning to develop clean, responsive, and usable websites.</p>
 
+## To-Do Side Projects ##
+- [x] [Form](https://garricode.github.io/website-request-form/)
+- [x] [Photo gallery](https://garricode.github.io/photogallery/)
+- [ ] Favorite links
+- [ ] Mobile-responsive site
+- [ ] Portfolio
+
 ## Logs ##
 * [Code Journal](https://github.com/garricode/codenotebook/blob/master/codejournal.txt)
 
