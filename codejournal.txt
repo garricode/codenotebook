@@ -35,5 +35,5 @@ Tuning and tweaking my Photo Gallery side project. I got rid of unnecessary code
 I created a list of side-projects that I have on mind for my portfolio.
 
 8:47 AM 2/14/2020
-Back on coding since February 9th. I chose Atom over Brackets. Atom integrates well with Github. As a freelance illustrator, I prefer to code and design my own website as well the web-comic that I have on mind.
-
+Back on coding since February 9th. I chose Atom over Brackets. Atom integrates well with Github.
+As a freelance illustrator, I prefer to code and design my own website as well the web-comic that I have on mind.
