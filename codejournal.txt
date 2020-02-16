@@ -37,3 +37,8 @@ I created a list of side-projects that I have on mind for my portfolio.
 8:47 AM 2/14/2020
 Back on coding since February 9th. I chose Atom over Brackets. Atom integrates well with Github.
 As a freelance illustrator, I prefer to code and design my own website as well the web-comic that I have on mind.
+
+10:26 AM 2/16/2020
+I completed Basic CSS to start with Applied Visual Design. I tweaked my text editor for better performance to meet my coding needs.
+I joinned to DEV, a community of software developers to network with others.
+
