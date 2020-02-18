@@ -42,3 +42,6 @@ As a freelance illustrator, I prefer to code and design my own website as well t
 I completed Basic CSS to start with Applied Visual Design. I tweaked my text editor for better performance to meet my coding needs.
 I joinned to DEV, a community of software developers to network with others.
 
+8:01 PM 2/17/2020
+I completed more challenges on Applied Visual Design. I met more developers from the Dev Community, and leaned more about CSS variables.
+
