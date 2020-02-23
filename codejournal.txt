@@ -45,3 +45,6 @@ I joinned to DEV, a community of software developers to network with others.
 8:01 PM 2/17/2020
 I completed more challenges on Applied Visual Design. I met more developers from the Dev Community, and leaned more about CSS variables.
 
+
+11:24 PM 2/22/2020
+I cleaned a bit the code from my arbor-est-scriptor, but it will still need some minor tweaks. I revised the senmatic elements too. I completed more challenges to earn my freeCodeCamp's Responsive Web Design Certificate. I will start to plan for the 5 projects.
