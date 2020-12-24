@@ -48,3 +48,7 @@ I completed more challenges on Applied Visual Design. I met more developers from
 
 11:24 PM 2/22/2020
 I cleaned a bit the code from my arbor-est-scriptor, but it will still need some minor tweaks. I revised the senmatic elements too. I completed more challenges to earn my freeCodeCamp's Responsive Web Design Certificate. I will start to plan for the 5 projects.
+
+11:57 PM 12/23/2020
+I read Drupal's technical documentation. I watched videos about UI Design. I learned about ReactJS.
+
