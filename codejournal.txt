@@ -52,3 +52,6 @@ I cleaned a bit the code from my arbor-est-scriptor, but it will still need some
 11:57 PM 12/23/2020
 I read Drupal's technical documentation. I watched videos about UI Design. I learned about ReactJS.
 
+
+11:26 PM 1/2/2021
+I registered for CS50x which is a self-paced free Computer Science class provided by Harvard. I will start soon with the ECMAScript challenges from freeCoeCamp. I created a new git repository to work on a C++ project.
